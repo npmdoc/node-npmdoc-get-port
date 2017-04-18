@@ -1,9 +1,14 @@
-# api documentation for  [get-port (v3.1.0)](https://github.com/sindresorhus/get-port#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-get-port.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-get-port) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-get-port.svg)](https://travis-ci.org/npmdoc/node-npmdoc-get-port)
+# npmdoc-get-port
+
+#### api documentation for  [get-port (v3.1.0)](https://github.com/sindresorhus/get-port#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-get-port.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-get-port) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-get-port.svg)](https://travis-ci.org/npmdoc/node-npmdoc-get-port)
+
 #### Get an available port
 
-[![NPM](https://nodei.co/npm/get-port.png?downloads=true)](https://www.npmjs.com/package/get-port)
+[![NPM](https://nodei.co/npm/get-port.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/get-port)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-get-port/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-get-port_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-get-port/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-get-port/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-get-port/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-get-port/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-get-port/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-get-port/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Sindre Sorhus",
-        "email": "sindresorhus@gmail.com",
         "url": "sindresorhus.com"
     },
     "bugs": {
@@ -64,13 +68,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         }
     ],
     "name": "get-port",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/sindresorhus/get-port.git"
@@ -81,16 +83,6 @@
     "version": "3.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module get-port](#apidoc.module.get-port)
-
-
-
-# <a name="apidoc.module.get-port"></a>[module get-port](#apidoc.module.get-port)
 
 
 

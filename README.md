@@ -1,6 +1,6 @@
 # npmdoc-get-port
 
-#### api documentation for  [get-port (v3.1.0)](https://github.com/sindresorhus/get-port#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-get-port.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-get-port) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-get-port.svg)](https://travis-ci.org/npmdoc/node-npmdoc-get-port)
+#### basic api documentation for  [get-port (v3.1.0)](https://github.com/sindresorhus/get-port#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-get-port.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-get-port) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-get-port.svg)](https://travis-ci.org/npmdoc/node-npmdoc-get-port)
 
 #### Get an available port
 
@@ -80,7 +80,8 @@
     "scripts": {
         "test": "xo && ava"
     },
-    "version": "3.1.0"
+    "version": "3.1.0",
+    "bin": {}
 }
 ```
 
